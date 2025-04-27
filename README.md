@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeet Narayan Chakraborty
 
-<!--
-**JeetNarayanChakraborty/JeetNarayanChakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** specializing in building **clean, scalable APIs** using **Java**, **Spring Boot**, **Hibernate**, and **MySQL**.  
+I focus on writing efficient, production-ready code and have a growing interest in system design and microservices architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Languages**: Java, HTML, JavaScript (basics)
+- **Frameworks**: Spring Boot, Hibernate
+- **Database**: MySQL
+- **Tools**: GitHub, AWS
+
+---
+
+## 💼 Professional Experience
+
+- **Deloitte**:  
+  ➔ Built **secure, efficient APIs** for security-related interfaces by maintaining communication between business logic, frontend, MySQL database, reporting, and integration teams.  
+  ➔ Developed professional skills like teamwork, communication across teams, and delivering production-grade backend solutions.
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+- **PVault**: A secure password management app built with Spring Boot, Hibernate, and MySQL, featuring advanced password analysis using AI and the "Have I Been Pwned" API to check strength and data breach status.
+
+
+---
+
+# 📫 Let's Connect!
+Feel free to connect with me for collaborations or discussions on Java, backend development, and system design!
