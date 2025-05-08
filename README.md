@@ -22,12 +22,5 @@ I focus on writing efficient, production-ready code and have a growing interest 
 
 ---
 
-## 🚀 Projects I'm Proud Of
-
-- **PVault**: A secure password management app built with Spring Boot, Hibernate, and MySQL, featuring advanced password analysis using AI and the "Have I Been Pwned" API to check strength and data breach status.
-
-
----
-
 # 📫 Let's Connect!
 Feel free to connect with me for collaborations or discussions on Java, backend development, and system design!
