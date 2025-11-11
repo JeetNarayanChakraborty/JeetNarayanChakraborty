@@ -12,15 +12,5 @@ I have a growing interest in system design and microservices architecture.
 - **Database**: MySQL
 - **Tools**: GitHub, Postman, AWS
 
----
-
-## 💼 Professional Experience
-
-- **Deloitte**:  
-  ➔ Built **secure, efficient APIs** for security-related interfaces by maintaining communication between business logic, frontend, MySQL database, reporting, and integration teams.  
-  ➔ Developed professional skills like teamwork, communication across teams, and delivering production-grade backend solutions.
-
----
-
 # 📫 Let's Connect!
 Feel free to connect with me for collaborations or discussions on Java, backend development, and system design!
