@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeet Narayan Chakraborty
 
-I'm a **Backend Developer** building **clean, scalable APIs** using **Java**, **Spring Boot**, **Hibernate**, and **MySQL**.  
+I am building **clean, scalable APIs** using **Java**, **Spring Boot**, **Hibernate**, and **MySQL**.  
 I have a growing interest in system design and microservices architecture.
 
 ---
